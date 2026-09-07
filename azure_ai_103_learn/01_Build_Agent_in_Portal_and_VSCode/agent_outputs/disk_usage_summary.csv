@@ -1,0 +1,4 @@
+metric,value,column_used
+disk_usage_avg,66.5625,disk_percent
+disk_usage_min,62.0,disk_percent
+disk_usage_max,72.0,disk_percent

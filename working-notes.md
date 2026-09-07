@@ -10,3 +10,11 @@ https://learn.microsoft.com/en-us/azure/foundry/what-is-foundry
 Foundry Arch: https://learn.microsoft.com/en-us/azure/foundry/concepts/architecture
 
 ## What is the use of a Foundary Project? Why do we need it at all?
+
+
+## Prompt Agents vs Hosted Agents ?
+
+
+## What are the various built-in tools and capabilities that can be added to the agent e.g. Memory / Guardrail / Code Interpreter etc.?
+
+## What settings and customizations do we have for code interpreter and file search tool ?
