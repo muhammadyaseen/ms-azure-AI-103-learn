@@ -1,0 +1,412 @@
+{
+  "course": "Develop AI apps and agents on Azure",
+  "learning_paths": [
+    {
+      "learning_path": "Develop generative AI apps in Azure",
+      "modules": [
+        {
+          "module": "Plan and prepare to develop AI solutions on Azure",
+          "units": [
+            "Introduction",
+            "What is AI?",
+            "Microsoft Foundry",
+            "Foundry Tools",
+            "Developer tools and SDKs",
+            "Responsible AI",
+            "Exercise - Prepare for an AI development project",
+            "Module assessment",
+            "Summary"
+          ]
+        },
+        {
+          "module": "Select, deploy, and evaluate Microsoft Foundry models",
+          "units": [
+            "Introduction",
+            "Explore the model catalog",
+            "Select models using benchmarks",
+            "Deploy models to endpoints",
+            "Evaluate model performance",
+            "Exercise - Select, deploy, and evaluate models",
+            "Knowledge check",
+            "Summary"
+          ]
+        },
+        {
+          "module": "Develop a generative AI chat app with Microsoft Foundry",
+          "units": [
+            "Introduction",
+            "Explore with the model playground",
+            "Choose an endpoint and SDK",
+            "Generate responses with the Responses API",
+            "Generate responses with the ChatCompletions API",
+            "Exercise - Create a generative AI chat app",
+            "Knowledge check",
+            "Summary"
+          ]
+        },
+        {
+          "module": "Develop generative AI apps that use tools",
+          "units": [
+            "Introduction",
+            "What are tools?",
+            "Use the code_interpreter tool",
+            "Use the web_search tool",
+            "Use the file_search tool",
+            "Use the function tool",
+            "Exercise - Create a generative AI chat app that uses tools",
+            "Module assessment",
+            "Summary"
+          ]
+        },
+        {
+          "module": "Optimize generative AI model performance with Microsoft Foundry",
+          "units": [
+            "Introduction",
+            "Optimize model output with prompt engineering",
+            "Ground your model with Retrieval Augmented Generation",
+            "Fine-tune a model for consistent behavior",
+            "Compare and combine optimization strategies",
+            "Exercise - Optimize generative AI model performance",
+            "Module assessment",
+            "Summary"
+          ]
+        },
+        {
+          "module": "Implement a responsible generative AI solution in Microsoft Foundry",
+          "units": [
+            "Introduction",
+            "Plan a responsible generative AI solution",
+            "Map potential harms",
+            "Measure potential harms",
+            "Mitigate potential harms",
+            "Manage a responsible generative AI solution",
+            "Exercise - Apply guardrails to prevent the output of harmful content",
+            "Module assessment",
+            "Summary"
+          ]
+        }
+      ]
+    },
+    {
+      "learning_path": "Develop AI agents on Azure",
+      "modules": [
+        {
+          "module": "Develop AI agents with Microsoft Foundry and Visual Studio Code",
+          "units": [
+            "Introduction",
+            "Understand AI agents and Microsoft Foundry Agent Service",
+            "Explore development approaches",
+            "Build your first agent in Microsoft Foundry",
+            "Set up Visual Studio Code for agent development",
+            "Configure and manage agents in Visual Studio Code",
+            "Extend agent capabilities with tools",
+            "Test, deploy, and integrate agents",
+            "Exercise - Build and deploy an AI agent",
+            "Knowledge check",
+            "Summary"
+          ]
+        },
+        {
+          "module": "Integrate custom tools into your agent",
+          "units": [
+            "Introduction",
+            "Why use custom tools",
+            "Options for implementing custom tools",
+            "How to integrate custom tools",
+            "Exercise - Build an agent with custom tools",
+            "Module assessment",
+            "Summary"
+          ]
+        },
+        {
+          "module": "Integrate MCP Tools with Azure AI Agents",
+          "units": [
+            "Introduction",
+            "Understand MCP tool discovery",
+            "Integrate agent tools using an MCP server and client",
+            "Use Azure AI agents with MCP servers",
+            "Exercise - Connect MCP tools to Azure AI Agents",
+            "Module assessment",
+            "Summary"
+          ]
+        },
+        {
+          "module": "Build knowledge-enhanced AI agents with Foundry IQ",
+          "units": [
+            "Introduction",
+            "Understanding RAG for agents",
+            "Explore Foundry IQ",
+            "Configure data sources for knowledge bases",
+            "Configure retrieval with Foundry IQ",
+            "Exercise - Integrate an AI agent with Foundry IQ",
+            "Knowledge check",
+            "Summary"
+          ]
+        },
+        {
+          "module": "Integrate your agent with Microsoft 365",
+          "units": [
+            "Introduction",
+            "Understand Foundry agent publishing options",
+            "Publish an agent from Foundry portal to Teams",
+            "Advanced - Use Microsoft 365 Agents Toolkit",
+            "Access Microsoft 365 data with Work IQ",
+            "Test and iterate your integrated agent",
+            "Exercise - Publish a Foundry agent to Teams",
+            "Knowledge check",
+            "Summary"
+          ]
+        },
+        {
+          "module": "Build agent-driven workflows using Microsoft Foundry",
+          "units": [
+            "Introduction",
+            "Understand Workflows",
+            "Identify Workflow Patterns",
+            "Create workflows in Microsoft Foundry",
+            "Add Agents to a Workflow",
+            "Apply Power Fx in Workflows",
+            "Maintain Workflows in Microsoft Foundry",
+            "Use workflows in code",
+            "Exercise - Create an Agent-driven Workflow",
+            "Module Assessment",
+            "Summary"
+          ]
+        },
+        {
+          "module": "Develop an AI agent with Microsoft Agent Framework",
+          "units": [
+            "Introduction",
+            "Understand Microsoft Agent Framework AI agents",
+            "Create an Azure AI agent with Microsoft Agent Framework",
+            "Add tools to Azure AI agent",
+            "Exercise - Develop an Azure AI agent with the Microsoft Agent Framework SDK",
+            "Knowledge check",
+            "Summary"
+          ]
+        },
+        {
+          "module": "Orchestrate a multi-agent solution using the Microsoft Agent Framework",
+          "units": [
+            "Introduction",
+            "Understand the Microsoft Agent Framework",
+            "Understand agent orchestration",
+            "Use concurrent orchestration",
+            "Use sequential orchestration",
+            "Use group chat orchestration",
+            "Use handoff orchestration",
+            "Use Magentic orchestration",
+            "Exercise - Develop a multi-agent solution",
+            "Knowledge check",
+            "Summary"
+          ]
+        },
+        {
+          "module": "Discover Azure AI Agents with A2A",
+          "units": [
+            "Introduction",
+            "Define an A2A agent",
+            "Implement an agent executor",
+            "Host an A2A server",
+            "Connect to your A2A agent",
+            "Exercise - Connect to remote Azure AI Agents with the A2A protocol",
+            "Module assessment",
+            "Summary"
+          ]
+        }
+      ]
+    },
+    {
+      "learning_path": "Develop natural language solutions in Azure",
+      "modules": [
+        {
+          "module": "Analyze text with Azure Language in Foundry Tools",
+          "units": [
+            "Introduction",
+            "Azure Language in Microsoft Foundry Tools",
+            "Detect language",
+            "Extract entities",
+            "Extract personally identifiable information (PII)",
+            "Exercise - Analyze text",
+            "Module assessment",
+            "Summary"
+          ]
+        },
+        {
+          "module": "Develop a text analysis agent with the Azure Language MCP server",
+          "units": [
+            "Introduction",
+            "Understand the Azure Language MCP server",
+            "Connect and use the Language MCP server with an agent",
+            "Exercise - Develop a text analysis agent",
+            "Knowledge check",
+            "Summary"
+          ]
+        },
+        {
+          "module": "Develop a speech-capable generative AI application",
+          "units": [
+            "Introduction",
+            "Choose a speech-capable model",
+            "Transcribe speech",
+            "Synthesize speech",
+            "Exercise - Use speech-capable generative AI models",
+            "Module assessment",
+            "Summary"
+          ]
+        },
+        {
+          "module": "Create speech-enabled apps with Azure Speech in Microsoft Foundry Tools",
+          "units": [
+            "Introduction",
+            "Azure Speech in Foundry Tools",
+            "Use the Speech to Text API",
+            "Use the Text to Speech API",
+            "Configure audio format and voices",
+            "Use Speech Synthesis Markup Language",
+            "Exercise - Create a speech-enabled app",
+            "Module assessment",
+            "Summary"
+          ]
+        },
+        {
+          "module": "Develop a speech agent with the Azure Speech MCP server",
+          "units": [
+            "Introduction",
+            "Understand the Azure Speech MCP server",
+            "Connect and use the Speech MCP server with an agent",
+            "Exercise - Use Azure Speech in an agent",
+            "Knowledge check",
+            "Summary"
+          ]
+        },
+        {
+          "module": "Develop an Azure Speech Voice Live Agent in Microsoft Foundry",
+          "units": [
+            "Introduction",
+            "Explore the Azure Voice Live API",
+            "Explore the AI Voice Live client library for Python",
+            "Create a Voice Live agent",
+            "Exercise - Develop a Voice Live agent",
+            "Module assessment",
+            "Summary"
+          ]
+        },
+        {
+          "module": "Translate text and speech with Microsoft Foundry Tools",
+          "units": [
+            "Introduction",
+            "Translation in Microsoft Foundry",
+            "Translate text",
+            "Translate speech",
+            "Exercise - Translate text and speech",
+            "Module assessment",
+            "Summary"
+          ]
+        }
+      ]
+    },
+    {
+      "learning_path": "Extract insights from visual data on Azure",
+      "modules": [
+        {
+          "module": "Develop a vision-enabled generative AI application",
+          "units": [
+            "Introduction",
+            "Use a vision-capable model in the Microsoft Foundry portal",
+            "Develop a vision-based chat app",
+            "Exercise - Develop a vision-enabled chat app",
+            "Module assessment",
+            "Summary"
+          ]
+        },
+        {
+          "module": "Generate images with AI",
+          "units": [
+            "Introduction",
+            "What are image-generation models?",
+            "Explore image-generation models in Microsoft Foundry portal",
+            "Create a client application that uses an image generation model",
+            "Exercise - Generate images with AI",
+            "Module assessment",
+            "Summary"
+          ]
+        },
+        {
+          "module": "Generate videos with Microsoft Foundry",
+          "units": [
+            "Introduction",
+            "Deploy a video generating model",
+            "Generate video from a prompt",
+            "Generate video in Python",
+            "Exercise - Generate video with Sora 2 in Microsoft Foundry",
+            "Module assessment",
+            "Summary"
+          ]
+        },
+        {
+          "module": "Analyze images with Content Understanding",
+          "units": [
+            "Introduction",
+            "What is Content Understanding?",
+            "Analyze images with Content Understanding",
+            "Exercise - Analyze images with Content Understanding",
+            "Module assessment",
+            "Summary"
+          ]
+        },
+        {
+          "module": "Create a multimodal analysis solution with Azure Content Understanding",
+          "units": [
+            "Introduction",
+            "What is Azure Content Understanding?",
+            "Create a Content Understanding analyzer",
+            "Use the Content Understanding API",
+            "Exercise - Extract information from multimodal content",
+            "Module assessment",
+            "Summary"
+          ]
+        },
+        {
+          "module": "Create an Azure Content Understanding client application",
+          "units": [
+            "Introduction",
+            "Prepare to use the AI Content Understanding API",
+            "Create a Content Understanding analyzer",
+            "Analyze content",
+            "Exercise - Develop a Content Understanding client application",
+            "Module assessment",
+            "Summary"
+          ]
+        },
+        {
+          "module": "Extract data with Azure Document Intelligence",
+          "units": [
+            "Introduction",
+            "What is Azure Document Intelligence?",
+            "Use the Document Intelligence Studio",
+            "Use prebuilt models",
+            "Train and use custom models",
+            "Exercise - Analyze documents with Document Intelligence",
+            "Module assessment",
+            "Summary"
+          ]
+        },
+        {
+          "module": "Create a knowledge mining solution with Azure AI Search",
+          "units": [
+            "Introduction",
+            "What is Azure AI Search?",
+            "Extract data with an indexer",
+            "Enrich extracted data with AI skills",
+            "Search an index",
+            "Persist extracted information in a knowledge store",
+            "Exercise - Create a knowledge mining solution",
+            "Module assessment",
+            "Summary"
+          ]
+        }
+      ]
+    }
+  ]
+}
